@@ -1,6 +1,4 @@
 
-// @ts-ignore
-import cookieParser from 'cookie-parser';
 
 import express from 'express';
 import mongoose from 'mongoose';
